@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LoginApplication</id>
+    <version>1.0.0</version>
+    <authors>LoginApplication</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Main.cs" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\Desktop\InformationTechnologyCompany\LoginApplication\bin\Debug\netcoreapp3.1\LoginApplication.runtimeconfig.json" target="lib\netcoreapp3.1\LoginApplication.runtimeconfig.json" />
+    <file src="C:\Users\User\Desktop\InformationTechnologyCompany\LoginApplication\bin\Debug\netcoreapp3.1\LoginApplication.dll" target="lib\netcoreapp3.1\LoginApplication.dll" />
+  </files>
+</package>

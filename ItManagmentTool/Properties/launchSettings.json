@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ItManagmentTool": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}

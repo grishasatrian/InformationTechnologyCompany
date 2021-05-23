@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\bin\Release\netcoreapp3.1\ItManagmentTool.exe
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\bin\Release\netcoreapp3.1\ItManagmentTool.deps.json
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\bin\Release\netcoreapp3.1\ItManagmentTool.runtimeconfig.json
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\bin\Release\netcoreapp3.1\ItManagmentTool.runtimeconfig.dev.json
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\bin\Release\netcoreapp3.1\ItManagmentTool.dll
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\bin\Release\netcoreapp3.1\ItManagmentTool.pdb
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\bin\Release\netcoreapp3.1\InformationTechnologyCompany.dll
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\bin\Release\netcoreapp3.1\InformationTechnologyCompany.pdb
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\obj\Release\netcoreapp3.1\ItManagmentTool.csprojAssemblyReference.cache
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\obj\Release\netcoreapp3.1\ItManagmentTool.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\obj\Release\netcoreapp3.1\ItManagmentTool.AssemblyInfo.cs
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\obj\Release\netcoreapp3.1\ItManagmentTool.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\obj\Release\netcoreapp3.1\ItManagmentTool.csproj.CopyComplete
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\obj\Release\netcoreapp3.1\ItManagmentTool.dll
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\obj\Release\netcoreapp3.1\ItManagmentTool.pdb
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\obj\Release\netcoreapp3.1\ItManagmentTool.genruntimeconfig.cache
+C:\Users\User\Desktop\InformationTechnologyCompany\ItManagmentTool\obj\Release\netcoreapp3.1\ItManagmentTool.GeneratedMSBuildEditorConfig.editorconfig
