@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\bin\Debug\netcoreapp3.1\HRManagmentProgram.exe
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\bin\Debug\netcoreapp3.1\HRManagmentProgram.deps.json
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\bin\Debug\netcoreapp3.1\HRManagmentProgram.runtimeconfig.json
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\bin\Debug\netcoreapp3.1\HRManagmentProgram.runtimeconfig.dev.json
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\bin\Debug\netcoreapp3.1\HRManagmentProgram.dll
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\bin\Debug\netcoreapp3.1\HRManagmentProgram.pdb
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\obj\Debug\netcoreapp3.1\HRManagmentProgram.csprojAssemblyReference.cache
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\obj\Debug\netcoreapp3.1\HRManagmentProgram.Managment.resources
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\obj\Debug\netcoreapp3.1\HRManagmentProgram.Properties.Resources.resources
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\obj\Debug\netcoreapp3.1\HRManagmentProgram.csproj.GenerateResource.cache
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\obj\Debug\netcoreapp3.1\HRManagmentProgram.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\obj\Debug\netcoreapp3.1\HRManagmentProgram.AssemblyInfo.cs
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\obj\Debug\netcoreapp3.1\HRManagmentProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\obj\Debug\netcoreapp3.1\HRManagmentProgram.dll
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\obj\Debug\netcoreapp3.1\HRManagmentProgram.pdb
+C:\Users\User\Desktop\InformationTechnologyCompany\HRManagmentProgram\obj\Debug\netcoreapp3.1\HRManagmentProgram.genruntimeconfig.cache
