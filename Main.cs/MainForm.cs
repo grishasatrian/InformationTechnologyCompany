@@ -12,7 +12,7 @@ using System.Windows.Forms;
 
 namespace Main.cs
 {
-    public partial class MainForm : Form, IHumanResourceDepartment
+    public partial class MainForm : Form
     {
         public MainForm()
         {
@@ -27,18 +27,9 @@ namespace Main.cs
         }
 
         private void btnHire_Click(object sender, EventArgs e)
-        {        
-            
-        }
-
-        public void Hire(Team team, SpecialistType specialistType, QualificationLevel qualificationLevel, string personalId, string firstName, string lastName, string numberPhone, string email, DateTime birthDate)
         {
             
         }
-
-        public void Fire(Team team, Employee employee)
-        {
-            throw new NotImplementedException();
-        }
+                
     }
 }
